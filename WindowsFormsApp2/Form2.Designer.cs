@@ -75,7 +75,7 @@
             this.tableLayoutPanel1.RowCount = 2;
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
-            this.tableLayoutPanel1.Size = new System.Drawing.Size(800, 450);
+            this.tableLayoutPanel1.Size = new System.Drawing.Size(508, 386);
             this.tableLayoutPanel1.TabIndex = 0;
             // 
             // flowLayoutPanel1
@@ -88,7 +88,7 @@
             this.flowLayoutPanel1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.flowLayoutPanel1.Location = new System.Drawing.Point(3, 3);
             this.flowLayoutPanel1.Name = "flowLayoutPanel1";
-            this.flowLayoutPanel1.Size = new System.Drawing.Size(394, 219);
+            this.flowLayoutPanel1.Size = new System.Drawing.Size(248, 187);
             this.flowLayoutPanel1.TabIndex = 0;
             // 
             // button1
@@ -120,7 +120,7 @@
             // 
             // button4
             // 
-            this.button4.Location = new System.Drawing.Point(246, 3);
+            this.button4.Location = new System.Drawing.Point(3, 32);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(75, 23);
             this.button4.TabIndex = 3;
@@ -129,7 +129,7 @@
             // 
             // button5
             // 
-            this.button5.Location = new System.Drawing.Point(3, 32);
+            this.button5.Location = new System.Drawing.Point(84, 32);
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(75, 23);
             this.button5.TabIndex = 4;
@@ -144,9 +144,9 @@
             this.flowLayoutPanel2.Controls.Add(this.button9);
             this.flowLayoutPanel2.Controls.Add(this.button10);
             this.flowLayoutPanel2.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.flowLayoutPanel2.Location = new System.Drawing.Point(403, 3);
+            this.flowLayoutPanel2.Location = new System.Drawing.Point(257, 3);
             this.flowLayoutPanel2.Name = "flowLayoutPanel2";
-            this.flowLayoutPanel2.Size = new System.Drawing.Size(394, 219);
+            this.flowLayoutPanel2.Size = new System.Drawing.Size(248, 187);
             this.flowLayoutPanel2.TabIndex = 1;
             // 
             // button6
@@ -178,7 +178,7 @@
             // 
             // button9
             // 
-            this.button9.Location = new System.Drawing.Point(246, 3);
+            this.button9.Location = new System.Drawing.Point(3, 32);
             this.button9.Name = "button9";
             this.button9.Size = new System.Drawing.Size(75, 23);
             this.button9.TabIndex = 3;
@@ -187,7 +187,7 @@
             // 
             // button10
             // 
-            this.button10.Location = new System.Drawing.Point(3, 32);
+            this.button10.Location = new System.Drawing.Point(84, 32);
             this.button10.Name = "button10";
             this.button10.Size = new System.Drawing.Size(75, 23);
             this.button10.TabIndex = 4;
@@ -202,9 +202,9 @@
             this.flowLayoutPanel3.Controls.Add(this.button14);
             this.flowLayoutPanel3.Controls.Add(this.button15);
             this.flowLayoutPanel3.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.flowLayoutPanel3.Location = new System.Drawing.Point(3, 228);
+            this.flowLayoutPanel3.Location = new System.Drawing.Point(3, 196);
             this.flowLayoutPanel3.Name = "flowLayoutPanel3";
-            this.flowLayoutPanel3.Size = new System.Drawing.Size(394, 219);
+            this.flowLayoutPanel3.Size = new System.Drawing.Size(248, 187);
             this.flowLayoutPanel3.TabIndex = 2;
             // 
             // button11
@@ -236,7 +236,7 @@
             // 
             // button14
             // 
-            this.button14.Location = new System.Drawing.Point(246, 3);
+            this.button14.Location = new System.Drawing.Point(3, 32);
             this.button14.Name = "button14";
             this.button14.Size = new System.Drawing.Size(75, 23);
             this.button14.TabIndex = 3;
@@ -245,7 +245,7 @@
             // 
             // button15
             // 
-            this.button15.Location = new System.Drawing.Point(3, 32);
+            this.button15.Location = new System.Drawing.Point(84, 32);
             this.button15.Name = "button15";
             this.button15.Size = new System.Drawing.Size(75, 23);
             this.button15.TabIndex = 4;
@@ -260,9 +260,9 @@
             this.flowLayoutPanel4.Controls.Add(this.button19);
             this.flowLayoutPanel4.Controls.Add(this.button20);
             this.flowLayoutPanel4.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.flowLayoutPanel4.Location = new System.Drawing.Point(403, 228);
+            this.flowLayoutPanel4.Location = new System.Drawing.Point(257, 196);
             this.flowLayoutPanel4.Name = "flowLayoutPanel4";
-            this.flowLayoutPanel4.Size = new System.Drawing.Size(394, 219);
+            this.flowLayoutPanel4.Size = new System.Drawing.Size(248, 187);
             this.flowLayoutPanel4.TabIndex = 3;
             // 
             // button16
@@ -294,7 +294,7 @@
             // 
             // button19
             // 
-            this.button19.Location = new System.Drawing.Point(246, 3);
+            this.button19.Location = new System.Drawing.Point(3, 32);
             this.button19.Name = "button19";
             this.button19.Size = new System.Drawing.Size(75, 23);
             this.button19.TabIndex = 3;
@@ -303,7 +303,7 @@
             // 
             // button20
             // 
-            this.button20.Location = new System.Drawing.Point(3, 32);
+            this.button20.Location = new System.Drawing.Point(84, 32);
             this.button20.Name = "button20";
             this.button20.Size = new System.Drawing.Size(75, 23);
             this.button20.TabIndex = 4;
@@ -314,8 +314,9 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(508, 386);
             this.Controls.Add(this.tableLayoutPanel1);
+            this.MinimumSize = new System.Drawing.Size(196, 340);
             this.Name = "Form2";
             this.Text = "Form2";
             this.tableLayoutPanel1.ResumeLayout(false);
